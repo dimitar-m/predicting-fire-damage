@@ -2,7 +2,7 @@
 
 ## How to Run  
 - Open the latest version of the project in **NBViewer**:  
-  [View in NBViewer](https://nbviewer.org/github/dimitar-m/predicting-heart-disease/blob/master/predicting-heart-disease-v1.3.ipynb)  
+  [View in NBViewer](https://nbviewer.org/github/dimitar-m/predicting-fire-damage/blob/master/predicting_fire_damage.ipynb)  
 
 ## Overview  
 This project uses the [UCI Forest Fires dataset](https://archive.ics.uci.edu/dataset/162/forest+fires) to predict the extent of burned area in Portuguese forests. The goal is to explore how weather conditions, fire indices, and seasonal patterns contribute to fire damage, while systematically testing multiple machine learning models.  
@@ -31,13 +31,4 @@ This project uses the [UCI Forest Fires dataset](https://archive.ics.uci.edu/dat
 ## Key Takeaways  
 - Pipelines streamlined preprocessing + modeling, reducing complexity.  
 - Systematic comparison of diverse models highlighted the dataset’s limitations.  
-- Even with modest results, this project demonstrates the full ML workflow from EDA to advanced models.  
-
-## Repository Structure  
-- `notebooks/` → Jupyter notebooks with analysis  
-- `data/` → Dataset (if allowed to share, otherwise link to UCI)  
-- `images/` → Visualizations and figures  
-- `README.md` → Project overview  
-
-## Dataset Source  
-[Forest Fires – UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/162/forest+fires)  
+- Even with modest results, this project demonstrates the full ML workflow from EDA to advanced models.
